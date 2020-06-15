@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestPatterns:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 1 = "it is one"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 2 = "it is two"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 3 = "it is three"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIntToString: 4 = "what's that"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsMaxAndMoritz: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsEven: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testIsEven: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testWinsA: 9[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testExtractMammalWeight: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testExtractMammalWeight: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUpdateFood: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUpdateFood: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testUpdateFood:3[0m[0m
